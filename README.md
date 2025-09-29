@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**HibaElF/HibaElF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Hiba  
 
-Here are some ideas to get you started:
+🎓 I'm a **3rd-year Software Engineering student**  
+🌍 Originally from **Morocco**, currently based in **Spain**  
+💻 Passionate about building software, solving problems, and learning new technologies 
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools  
+- **Languages:** Python | Java | C | C#  
+- **Databases:** MySQL 
+---
+
+## ⚡ Fun Facts  
+- 🌐 I speak **Arabic, French, Spanish, and English**  
+- 💡 Favorite quote: *"if it works don't touch it"* 
