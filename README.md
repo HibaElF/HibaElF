@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there 👋, I'm Hiba  
 
 🎓 I'm a **3rd-year Software Engineering student**  
