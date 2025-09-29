@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Hiba  
+# Hi there 👋, I'm Hiba El Farissi
 
 🎓 I'm a **3rd-year Software Engineering student**  
 🌍 Originally from **Morocco**, currently based in **Spain**  
